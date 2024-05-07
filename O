@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criaturas Mitológicas</title>
+    <style>
+        body {
+            background-color: black;
+            font-family: Calibri, sans-serif;
+            color: rgb(0, 238, 255);
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Criaturas Mitológicas</h1>
+    <p>Las criaturas mitológicas son seres fantásticos que aparecen en los mitos y leyendas de las culturas del pasado y también en las más recientes. Estamos rodeados de ellas desde que nacemos, o incluso antes, ya que los seres humanos llevan miles de años imaginando figuras imposibles y extraordinarias.</p>
+    <p>Algunas de estas criaturas incluyen:</p>
+    <ul>
+        <li>calabazo de los 3 deseos: Suele ocultarse en los ranchos, si te encuentras un 
+            Caballo con ojos esmeralda, síguelo hasta llegar a la
+            Roca donde se sienta el calabazo de los 3 deseos, este
+            Te ara una serie de preguntas acerca de tu persona, si
+            Descubre que mientes los deseos que pidas serán lo 
+            Contrario a lo que querías, pero si respondes con 
+            Honestidad y resultas ser buena persona este te 
+            Duplicará todo lo que pediste.
+            .</li>
+            <img src="IMG/AL.png" style="width:200px; height: 200px">
+        <li>gnomos chuchulies: Son una entidad hostil cuando no se les hospeda bien
+            Pueden aparecer en tu hogar, si los cuidas te darán dinero 
+            Bienes y abundancia, pero si se les trata mal pueden recurrir a 
+            Comportamientos agresivos e inclusive causarle malestares
+            A quien no le hospedo bien.
+            
+            .</li>
+
+            <IMG src="gno.jpg" style="width:200px; height: 200px">
+                <div class="img-con">
+
+                </div>
+        <li>मुस्कराते हुए: El cerdo sonriente se le aparece a la persona
+            que desea el mal a alguien, el cerdo solo aparece cuando 
+            la intención es inmensurable, si la causa de desearle el 
+            mal a alguien resulta por puro placer, este te desvivirá,
+            pero si la causa es que alguien se haya pasado contigo, 
+            este cometerá actos atroces en la vida del que te hizo sufrir
+            hasta desvivirlo de una manera muy trágica.
+            .</li>
+            <IMG src="oh.jpg" style="width:200px; height: 200px">
+        <li>mike: Es una entidad que te concedera dientes muy limpios y fuertes si eres amable con el cuando lo veas.</li>
+        <li>глаз: Se encuentra en las casas rondando si no te ah llegado un karma de alguna cosa mala que ayas hecho, este te atormentara asta que te arrepientes asta que decidas revertir lo hecho.</li>
+        <IMG src="cip.jpg" style="width:200px; height: 200px">
+    </ul>
+
+    <p>Estas criaturas son algunas de las creaturas mitologicas que pueden aparecerse en rosarito, luego estaremos en busca de mas
+    </style>
+</head>
+<body>
+    <h1>Si as visto alguna otra creatura favor de subir fotos</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="fileUpload">Selecciona un archivo:</label>
+        <input type="file" id="fileUpload" name="file">
+        <input type="submit" value="Subir">
+    </form>
+</body>
+</html>
+        </html>
